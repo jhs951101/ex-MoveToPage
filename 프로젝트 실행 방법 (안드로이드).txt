@@ -1,0 +1,10 @@
+1) 프로젝트 폴더로 이동
+2) 다음 명령문을 순서대로 실행
+
+npm install -g react-native-cli
+yarn add expo
+npm run eject
+yarn android
+
+
+** 프로젝트 초기 구조는 여기를 참고할 것: https://github.com/jhs951101/DiscountedPrice2
